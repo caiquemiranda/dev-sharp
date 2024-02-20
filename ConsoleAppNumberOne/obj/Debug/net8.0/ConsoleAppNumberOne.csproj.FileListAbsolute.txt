@@ -1,0 +1,15 @@
+d:\GIT-repository\github-dev-sharp\dev-sharp\ConsoleAppNumberOne\bin\Debug\net8.0\ConsoleAppNumberOne.exe
+d:\GIT-repository\github-dev-sharp\dev-sharp\ConsoleAppNumberOne\bin\Debug\net8.0\ConsoleAppNumberOne.deps.json
+d:\GIT-repository\github-dev-sharp\dev-sharp\ConsoleAppNumberOne\bin\Debug\net8.0\ConsoleAppNumberOne.runtimeconfig.json
+d:\GIT-repository\github-dev-sharp\dev-sharp\ConsoleAppNumberOne\bin\Debug\net8.0\ConsoleAppNumberOne.dll
+d:\GIT-repository\github-dev-sharp\dev-sharp\ConsoleAppNumberOne\bin\Debug\net8.0\ConsoleAppNumberOne.pdb
+d:\GIT-repository\github-dev-sharp\dev-sharp\ConsoleAppNumberOne\obj\Debug\net8.0\ConsoleAppNumberOne.GeneratedMSBuildEditorConfig.editorconfig
+d:\GIT-repository\github-dev-sharp\dev-sharp\ConsoleAppNumberOne\obj\Debug\net8.0\ConsoleAppNumberOne.AssemblyInfoInputs.cache
+d:\GIT-repository\github-dev-sharp\dev-sharp\ConsoleAppNumberOne\obj\Debug\net8.0\ConsoleAppNumberOne.AssemblyInfo.cs
+d:\GIT-repository\github-dev-sharp\dev-sharp\ConsoleAppNumberOne\obj\Debug\net8.0\ConsoleAppNumberOne.csproj.CoreCompileInputs.cache
+d:\GIT-repository\github-dev-sharp\dev-sharp\ConsoleAppNumberOne\obj\Debug\net8.0\ConsoleAppNumberOne.sourcelink.json
+d:\GIT-repository\github-dev-sharp\dev-sharp\ConsoleAppNumberOne\obj\Debug\net8.0\ConsoleAppNumberOne.dll
+d:\GIT-repository\github-dev-sharp\dev-sharp\ConsoleAppNumberOne\obj\Debug\net8.0\refint\ConsoleAppNumberOne.dll
+d:\GIT-repository\github-dev-sharp\dev-sharp\ConsoleAppNumberOne\obj\Debug\net8.0\ConsoleAppNumberOne.pdb
+d:\GIT-repository\github-dev-sharp\dev-sharp\ConsoleAppNumberOne\obj\Debug\net8.0\ConsoleAppNumberOne.genruntimeconfig.cache
+d:\GIT-repository\github-dev-sharp\dev-sharp\ConsoleAppNumberOne\obj\Debug\net8.0\ref\ConsoleAppNumberOne.dll
